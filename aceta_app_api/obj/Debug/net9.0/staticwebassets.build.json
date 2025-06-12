@@ -1,0 +1,846 @@
+{
+  "Version": 1,
+  "Hash": "k2Q6rZ6UZyu9axqFKvm9/Lm9o9cf972deCwbe7LZRhU=",
+  "Source": "aceta_app_api",
+  "BasePath": "_content/aceta_app_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "aceta_app_api/wwwroot",
+      "Source": "aceta_app_api",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mdh3pkg40w",
+      "Integrity": "RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "erv1u4pe6q",
+      "Integrity": "CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "erv1u4pe6q",
+      "Integrity": "CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/a0d2227a-d334-487f-a61e-f2900f9176cd#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mdh3pkg40w",
+      "Integrity": "RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/b1924653-fca6-4231-a3ce-0861dab8b936#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mdh3pkg40w",
+      "Integrity": "RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/c7b68e10-529f-4dd8-934d-242f89c92297#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "erv1u4pe6q",
+      "Integrity": "CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "erv1u4pe6q",
+      "Integrity": "CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg"
+    },
+    {
+      "Identity": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg",
+      "SourceId": "aceta_app_api",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/",
+      "BasePath": "_content/aceta_app_api",
+      "RelativePath": "uploads/da6af3f8-9923-4c31-bcae-385431bd3e60#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mdh3pkg40w",
+      "Integrity": "RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.mdh3pkg40w.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 18:40:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mdh3pkg40w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.erv1u4pe6q.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "erv1u4pe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.erv1u4pe6q.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 19:09:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "erv1u4pe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 19:09:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 19:09:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.mdh3pkg40w.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 19:09:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mdh3pkg40w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b1924653-fca6-4231-a3ce-0861dab8b936.mdh3pkg40w.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 18:43:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mdh3pkg40w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c7b68e10-529f-4dd8-934d-242f89c92297.erv1u4pe6q.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:41:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "erv1u4pe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 19:41:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.erv1u4pe6q.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 17:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "erv1u4pe6q"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11393"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 17:32:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CtUqSo1eEjku1w5+upXUHzOJosAO5aPP18mB/aeAv94="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 17:32:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.mdh3pkg40w.jpeg",
+      "AssetFile": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 17:32:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mdh3pkg40w"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RvytxB08WA7Gp0xvW7WnccVs4MwG9V/3A49+G+8i0Cs="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg",
+      "PackagePath": "staticwebassets/uploads/1b6e6e61-23f3-4bce-a4d5-70ade79f2cce.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg",
+      "PackagePath": "staticwebassets/uploads/7ceaaa72-40e8-4bd6-9e25-caa49499551c.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg",
+      "PackagePath": "staticwebassets/uploads/9d91dcdd-d20c-481c-91b7-4bdd5cea381c.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg",
+      "PackagePath": "staticwebassets/uploads/a0d2227a-d334-487f-a61e-f2900f9176cd.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg",
+      "PackagePath": "staticwebassets/uploads/b1924653-fca6-4231-a3ce-0861dab8b936.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg",
+      "PackagePath": "staticwebassets/uploads/c7b68e10-529f-4dd8-934d-242f89c92297.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg",
+      "PackagePath": "staticwebassets/uploads/d186149b-4288-4b6e-a0a5-d05b0a9e8400.jpeg"
+    },
+    {
+      "Id": "/Users/mstfnsckr/Desktop/KKÜ Projelerim/ACeTa App P2-B2/aceta_app_api/wwwroot/uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg",
+      "PackagePath": "staticwebassets/uploads/da6af3f8-9923-4c31-bcae-385431bd3e60.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.aceta_app_api.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.aceta_app_api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.aceta_app_api.props",
+      "PackagePath": "build\\aceta_app_api.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.aceta_app_api.props",
+      "PackagePath": "buildMultiTargeting\\aceta_app_api.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.aceta_app_api.props",
+      "PackagePath": "buildTransitive\\aceta_app_api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

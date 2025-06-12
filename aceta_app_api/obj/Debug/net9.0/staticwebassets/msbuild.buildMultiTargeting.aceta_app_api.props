@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/aceta_app_api.props" />
+</Project>

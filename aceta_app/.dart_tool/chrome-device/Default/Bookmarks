@@ -1,0 +1,47 @@
+{
+   "checksum": "4ebdaa7367bf060a1969f09c9c5b152a",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13392229589329650",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Yer İşaretleri Çubuğu",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13392229825891218",
+            "date_last_used": "0",
+            "guid": "8abc1034-121c-4155-8b88-ffa65a2c2a78",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "d",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13392229589329871",
+         "date_last_used": "0",
+         "date_modified": "13392229825891218",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Diğer Yer İşaretleri",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13392229589329871",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobil Yer İşaretleri",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
